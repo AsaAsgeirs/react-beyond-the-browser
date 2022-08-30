@@ -3,17 +3,13 @@
 This project is a React Native app. Set up using [Expo](https://expo.dev/)
 I created a very simple weather app, using OpenWeather API, that displays on one screen the current weather.
 
-<img width="357" alt="Beyond The Browser img" src="https://user-images.githubusercontent.com/89387153/187476687-02450263-b489-4fd4-abd7-cbc06f3380d7.png">
+### Photo of the app 
+<img width="357" alt="Beyond The Browser img" src="https://user-images.githubusercontent.com/89387153/187476687-02450263-b489-4fd4-abd7-cbc06f3380d7.png"> 
 
-
+### Screen Recording of the app:
 
 https://user-images.githubusercontent.com/89387153/187477548-3b3b15d2-0860-4cb7-aad8-5d929f82113d.mov
 
-
-
-
-Download video of the app:
-[DOWNLOAD VIDEO](https://user-images.githubusercontent.com/89387153/187475356-8ba92880-917b-4e92-bcce-e62515f8883e.mov)
 -------------------------------------------
 # To view the app locally 
 (You will need a Mac and Xcode to do this)
