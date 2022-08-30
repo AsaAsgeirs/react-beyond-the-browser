@@ -3,8 +3,10 @@
 This project is a React Native app. Set up using [Expo](https://expo.dev/)
 I created a very simple weather app, using OpenWeather API, that displays on one screen the current weather.
 
-### Photo of the app 
-<img width="357" alt="Beyond The Browser img" src="https://user-images.githubusercontent.com/89387153/187476687-02450263-b489-4fd4-abd7-cbc06f3380d7.png"> 
+### Photo of the app: 
+<p align="center">
+<img width="297,5" alt="Beyond The Browser img" src="https://user-images.githubusercontent.com/89387153/187476687-02450263-b489-4fd4-abd7-cbc06f3380d7.png"> 
+</p>
 
 ### Screen Recording of the app:
 
